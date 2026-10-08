@@ -10,7 +10,7 @@ It runs inside Claude Cowork, and works in Claude Code too.
 
 Everything starts from one question: **what value did you deliver?**
 
-Your experience is kept as *forløb*, one record per project or initiative, each with a reference, your responsibility, the goals, and the results. CV bullets, cover-letter sentences, interview stories, and LinkedIn posts are all different-length tellings of the same records. Write the record once, tell it many ways, and the facts never drift apart.
+Your experience is kept as one record per project or initiative, each with a reference, your responsibility, the goals, and the results. CV bullets, cover-letter sentences, interview stories, and LinkedIn posts are all different-length tellings of the same records. Write the record once, tell it many ways, and the facts never drift apart.
 
 The co-pilot improves those records as you go. When a result says what was *delivered* but not what it *changed*, or your own part is vague, it asks one sharp question. It never invents a number, a result, or a reference.
 
