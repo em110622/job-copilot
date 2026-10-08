@@ -1,0 +1,18 @@
+{
+  "name": "job-copilot",
+  "version": "0.1.0",
+  "description": "A personal job-search operating system for Claude. It learns who you are, the value you have delivered in each role, and how you write, then tailors applications, preps interviews, and keeps your network warm. Draft-only and tool-agnostic. Built on the structure of PM Co-Pilot by Daniel Blum.",
+  "author": {
+    "name": "Frederik"
+  },
+  "keywords": [
+    "job-search",
+    "career",
+    "cv",
+    "cover-letter",
+    "interview-prep",
+    "networking",
+    "memory",
+    "cowork"
+  ]
+}

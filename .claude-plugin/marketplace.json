@@ -1,0 +1,17 @@
+{
+  "name": "job-copilot",
+  "owner": {
+    "name": "Frederik"
+  },
+  "metadata": {
+    "description": "Job Co-Pilot: a personal job-search operating system for Claude that knows the value you have delivered and helps you apply, interview, and network.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "job-copilot",
+      "source": "./plugins/job-copilot",
+      "description": "Turns Claude into a job-search co-pilot that knows your experience and the value you delivered, tailors applications from it, preps you for interviews, and keeps your network warm. Draft-only: nothing is sent on your behalf. Tool-agnostic: it adapts to your email, browser, and document tools at setup. Built on the structure of PM Co-Pilot by Daniel Blum."
+    }
+  ]
+}
