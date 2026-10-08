@@ -9,6 +9,6 @@ Thumbs.db
 .idea/
 
 # Never commit a personal workspace into the plugin repo
-memory/
-applications/
+/memory/
+/applications/
 /CLAUDE.md
